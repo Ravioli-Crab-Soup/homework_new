@@ -2,7 +2,7 @@
 // ЗАДАНИЕ 13. БИБЛИОТЕКА КЛАССОВ (ВАРИАНТ 4. ГОСТИНИЦА)
 // ============================================================
 
-// WindowOrientation.cs
+// WindowOrientation.cs 
 using System;
 
 namespace HotelLibrary
